@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260607005045FHJ0LY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260607005045JJETBD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Our dream school trip: Proyecto de inglés-6º de Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Experiencia de aprendizaje basada en proyectos en la que el alumnado planifica y presenta su viaje escolar ideal utilizando herramientas digitales de forma colaborativa y responsable.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Victoriano Moreno Crespillo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>La propuesta didáctica, la organización de actividades y la selección de recursos han sido diseñadas para el desarrollo del proyecto Our dream school trip, dirigido al alumnado de 6.º de Educación Primaria dentro del área de Inglés.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780785952866</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq2wh5mt-j8tx8y05x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿En qué consiste el proyecto?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿En qué consiste el proyecto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿En qué consiste el proyecto?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5mt-j8tx8y05x</odePageId>
+      <odeBlockId>block-1779990726294-jnq3sod8k</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5mt-j8tx8y05x</odePageId>
+          <odeBlockId>block-1779990726294-jnq3sod8k</odeBlockId>
+          <odeIdeviceId>idevice-1779990726291-uzph2v2fr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 663px;"><img src="{{context_path}}/content/resources/Portada.png" width="663" height="442" alt="" />
+<figcaption class="figcaption"><span class="author">OpenAI-ChatGPT</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Este proyecto está dirigido al alumnado de 6.º de Primaria dentro del área de Inglés. A través de una propuesta práctica y cooperativa, los alumnos y alumnas planificarán su viaje escolar ideal utilizando el inglés como lengua de comunicación y diferentes herramientas digitales para buscar información, organizar sus ideas y presentar su propuesta final.</p>
+<p>La propuesta combina el aprendizaje del idioma con el desarrollo de la competencia digital, el trabajo en equipo y la toma de decisiones compartida. Además, parte de una situación cercana y motivadora para el alumnado, ya que les permite imaginar, organizar y presentar un viaje relacionado con sus propios intereses mientras utilizan el inglés de forma significativa y en un contexto realista.</p>
+<p>Durante las próximas sesiones os convertiréis en organizadores de vuestro propio viaje escolar ideal. Trabajaréis en pequeños grupos para planificar el destino, seleccionar lugares interesantes, organizar el itinerario y preparar vuestra propuesta utilizando el inglés y diferentes herramientas digitales.</p>
+<p><strong>¿Qué vais a hacer?</strong></p>
+<ul>
+<li>Buscar información sobre destinos y lugares de interés.</li>
+<li>Practicar vocabulario relacionado con viajes, transporte y alojamiento.</li>
+<li>Organizar ideas y tomar decisiones en grupo.</li>
+<li>Planificar un itinerario y un presupuesto sencillo.</li>
+<li>Utilizar herramientas digitales para diseñar vuestra propuesta.</li>
+<li>Presentar vuestro viaje escolar al resto de la clase.<br /></li>
+</ul>
+<p><strong>Producto final</strong></p>
+<p>Al final del proyecto, cada grupo presentará su propuesta de viaje escolar ideal en inglés. Para ello, crearéis un producto digital (folleto o presentación) donde incluiréis el destino elegido, actividades, transporte, alojamiento y la información más importante del viaje. Después, cada grupo compartirá su propuesta con el resto de la clase y explicará por qué considera que su viaje sería una buena opción.</p>
+<p>👉 <em>Enlace al Canva de la <a href="https://canva.link/eh6dqjna3tq5ihl" target="_blank" title="" rel="noopener">presentación del proyecto</a></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779990726291-uzph2v2fr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 663px;\"><img src=\"{{context_path}}/content/resources/Portada.png\" width=\"663\" height=\"442\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">OpenAI-ChatGPT</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Este proyecto está dirigido al alumnado de 6.º de Primaria dentro del área de Inglés. A través de una propuesta práctica y cooperativa, los alumnos y alumnas planificarán su viaje escolar ideal utilizando el inglés como lengua de comunicación y diferentes herramientas digitales para buscar información, organizar sus ideas y presentar su propuesta final.</p>\n<p>La propuesta combina el aprendizaje del idioma con el desarrollo de la competencia digital, el trabajo en equipo y la toma de decisiones compartida. Además, parte de una situación cercana y motivadora para el alumnado, ya que les permite imaginar, organizar y presentar un viaje relacionado con sus propios intereses mientras utilizan el inglés de forma significativa y en un contexto realista.</p>\n<p>Durante las próximas sesiones os convertiréis en organizadores de vuestro propio viaje escolar ideal. Trabajaréis en pequeños grupos para planificar el destino, seleccionar lugares interesantes, organizar el itinerario y preparar vuestra propuesta utilizando el inglés y diferentes herramientas digitales.</p>\n<p><strong>¿Qué vais a hacer?</strong></p>\n<ul>\n<li>Buscar información sobre destinos y lugares de interés.</li>\n<li>Practicar vocabulario relacionado con viajes, transporte y alojamiento.</li>\n<li>Organizar ideas y tomar decisiones en grupo.</li>\n<li>Planificar un itinerario y un presupuesto sencillo.</li>\n<li>Utilizar herramientas digitales para diseñar vuestra propuesta.</li>\n<li>Presentar vuestro viaje escolar al resto de la clase.<br /></li>\n</ul>\n<p><strong>Producto final</strong></p>\n<p>Al final del proyecto, cada grupo presentará su propuesta de viaje escolar ideal en inglés. Para ello, crearéis un producto digital (folleto o presentación) donde incluiréis el destino elegido, actividades, transporte, alojamiento y la información más importante del viaje. Después, cada grupo compartirá su propuesta con el resto de la clase y explicará por qué considera que su viaje sería una buena opción.</p>\n<p>👉 <em>Enlace al Canva de la <a href=\"https://canva.link/eh6dqjna3tq5ihl\" target=\"_blank\" title=\"\" rel=\"noopener\">presentación del proyecto</a></em></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5mx-nuz3lozbp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🏁Nuestro reto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🏁Nuestro reto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🏁Nuestro reto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🏁Nuestro reto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5mx-nuz3lozbp</odePageId>
+      <odeBlockId>block-1779992624626-0f8osvr2g</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5mx-nuz3lozbp</odePageId>
+          <odeBlockId>block-1779992624626-0f8osvr2g</odeBlockId>
+          <odeIdeviceId>idevice-1779992624623-pb845lf2x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>                                                                                                                             </p>
+<figure class="exe-figure float-right" style="width: 133px;"><img src="{{context_path}}/content/resources/airport-hall-vector.jpg" width="133" height="133" alt="" />
+<figcaption class="figcaption"><a href="https://vectorportal.com/es/vector/terminal-del-aeropuerto/20683" class="author" target="_blank" rel="noopener">Vectorportal</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a></span></figcaption>
+</figure>
+<p>🧳<strong>¿Cuál será vuestra misión?</strong><br />Cada grupo tendrá que planificar un viaje escolar ideal y preparar una propuesta en inglés para presentarla al resto de la clase. Para ello, tendréis que elegir un destino, buscar información básica, organizar el itinerario y diseñar un folleto o presentación digital.</p>
+<p>✈️ <strong>¿Qué deberá incluir vuestro viaje escolar?</strong></p>
+<ul>
+<li>Destino elegido</li>
+<li>Lugares de interés</li>
+<li>Transporte</li>
+<li>Alojamiento</li>
+<li>Actividades que realizaréis</li>
+<li>Presupuesto aproximado</li>
+<li>Folleto o presentación digital</li>
+</ul>
+<p>💻<strong>Herramientas que podréis utilizar</strong><br /></p>
+<ul>
+<li>Padlet</li>
+<li>Google Maps</li>
+<li>Canva</li>
+<li>Google Slides</li>
+<li>Google Docs</li>
+<li>Quizizz</li>
+</ul>
+<p>🤝<strong>Trabajo en equipo</strong><br />Cada miembro del grupo tendrá una función importante dentro del proyecto. Será necesario colaborar, organizar la información, tomar decisiones en equipo y respetar las ideas de los demás para conseguir una propuesta final clara, creativa y bien presentada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779992624623-pb845lf2x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>                                                                                                                             </p>\n<figure class=\"exe-figure float-right\" style=\"width: 133px;\"><img src=\"{{context_path}}/content/resources/airport-hall-vector.jpg\" width=\"133\" height=\"133\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://vectorportal.com/es/vector/terminal-del-aeropuerto/20683\" class=\"author\" target=\"_blank\" rel=\"noopener\">Vectorportal</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a></span></figcaption>\n</figure>\n<p>🧳<strong>¿Cuál será vuestra misión?</strong><br />Cada grupo tendrá que planificar un viaje escolar ideal y preparar una propuesta en inglés para presentarla al resto de la clase. Para ello, tendréis que elegir un destino, buscar información básica, organizar el itinerario y diseñar un folleto o presentación digital.</p>\n<p>✈️ <strong>¿Qué deberá incluir vuestro viaje escolar?</strong></p>\n<ul>\n<li>Destino elegido</li>\n<li>Lugares de interés</li>\n<li>Transporte</li>\n<li>Alojamiento</li>\n<li>Actividades que realizaréis</li>\n<li>Presupuesto aproximado</li>\n<li>Folleto o presentación digital</li>\n</ul>\n<p>💻<strong>Herramientas que podréis utilizar</strong><br /></p>\n<ul>\n<li>Padlet</li>\n<li>Google Maps</li>\n<li>Canva</li>\n<li>Google Slides</li>\n<li>Google Docs</li>\n<li>Quizizz</li>\n</ul>\n<p>🤝<strong>Trabajo en equipo</strong><br />Cada miembro del grupo tendrá una función importante dentro del proyecto. Será necesario colaborar, organizar la información, tomar decisiones en equipo y respetar las ideas de los demás para conseguir una propuesta final clara, creativa y bien presentada.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5mz-ugd4x3r4m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🧩 Actividades</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧩 Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧩 Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5mz-ugd4x3r4m</odePageId>
+      <odeBlockId>block-1779993595564-ua5xks45w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5mz-ugd4x3r4m</odePageId>
+          <odeBlockId>block-1779993595564-ua5xks45w</odeBlockId>
+          <odeIdeviceId>idevice-1779993595561-wd2e9yx6e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📝 <strong>Actividades del proyecto</strong><br />A lo largo de las diferentes sesiones iréis completando pequeñas tareas que os ayudarán a organizar vuestro viaje escolar y preparar el producto final.</p>
+<p>Cada actividad os permitirá investigar, practicar inglés y trabajar en equipo mientras utilizáis herramientas digitales.</p>
+<p>1️⃣ <strong>Búsqueda de destinos y lugares de interés  🔍</strong><br />Buscaréis información sobre diferentes destinos y decidiréis en grupo cuál queréis elegir.</p>
+<p>Podréis consultar mapas, páginas web y recursos digitales para encontrar lugares interesantes y organizar vuestras primeras ideas.</p>
+<p> <br />2️⃣ <strong>Vocabulario sobre viajes 🗣️📚</strong><br />Practicaréis vocabulario relacionado con:</p>
+<ul>
+<li>transporte</li>
+<li>alojamiento</li>
+<li>lugares turísticos</li>
+<li>actividades</li>
+<li>comida</li>
+</ul>
+<p>Utilizaréis recursos visuales y actividades digitales para reforzar el vocabulario antes de preparar vuestra propuesta.</p>
+<p> <br />3️⃣ <strong>Organización del viaje </strong><br />En grupo decidiréis:</p>
+<ul>
+<li>qué destino vais a visitar 📍</li>
+<li>cómo viajaréis ✈️</li>
+<li>dónde os alojaréis 🏨</li>
+<li>qué lugares visitaréis 🚌</li>
+<li>qué actividades incluiréis 🎡</li>
+<li>presupuesto sencillo 💷<br /></li>
+</ul>
+<p> <br />4️⃣ <strong>Creación del producto digital</strong><br />Con la información seleccionada crearéis vuestro producto final utilizando herramientas digitales. Podréis diseñar:</p>
+<ul>
+<li>un folleto digital</li>
+<li>una presentación </li>
+<li>carteles o materiales visuales</li>
+</ul>
+<p>👉 <a href="https://4.bp.blogspot.com/-7Z40L8HYAbI/Un-kLNMViqI/AAAAAAAAADg/aiupJrsKva4/s1600/brochure.jpg" target="_blank" title="" rel="noopener">Ejemplo folleto</a>  </p>
+<figure class="exe-figure exe-media position-center license-copyright" style="width: 300px;" id="fig_6spp9lttr"><iframe width="300" height="150" src="https://www.youtube.com/embed/-urVziW313U?si=hwb-UJT5IXvAweBK" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://youtube.com/shorts/-urVziW313U?si=hwb-UJT5IXvAweBK" target="_blank" class="author" rel="noopener">ArtcreationsSindhu</a> <span class="license"><span class="sep">(</span><span>Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p>5️⃣ <strong>Presentación final</strong><br />Cada grupo presentará su viaje escolar al resto de la clase y explicará sus decisiones.</p>
+<p>Después podréis escuchar las propuestas de vuestros compañeros y valorar cuál os gustaría realizar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779993595561-wd2e9yx6e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📝 <strong>Actividades del proyecto</strong><br />A lo largo de las diferentes sesiones iréis completando pequeñas tareas que os ayudarán a organizar vuestro viaje escolar y preparar el producto final.</p>\n<p>Cada actividad os permitirá investigar, practicar inglés y trabajar en equipo mientras utilizáis herramientas digitales.</p>\n<p>1️⃣ <strong>Búsqueda de destinos y lugares de interés  🔍</strong><br />Buscaréis información sobre diferentes destinos y decidiréis en grupo cuál queréis elegir.</p>\n<p>Podréis consultar mapas, páginas web y recursos digitales para encontrar lugares interesantes y organizar vuestras primeras ideas.</p>\n<p> <br />2️⃣ <strong>Vocabulario sobre viajes 🗣️📚</strong><br />Practicaréis vocabulario relacionado con:</p>\n<ul>\n<li>transporte</li>\n<li>alojamiento</li>\n<li>lugares turísticos</li>\n<li>actividades</li>\n<li>comida</li>\n</ul>\n<p>Utilizaréis recursos visuales y actividades digitales para reforzar el vocabulario antes de preparar vuestra propuesta.</p>\n<p> <br />3️⃣ <strong>Organización del viaje </strong><br />En grupo decidiréis:</p>\n<ul>\n<li>qué destino vais a visitar 📍</li>\n<li>cómo viajaréis ✈️</li>\n<li>dónde os alojaréis 🏨</li>\n<li>qué lugares visitaréis 🚌</li>\n<li>qué actividades incluiréis 🎡</li>\n<li>presupuesto sencillo 💷<br /></li>\n</ul>\n<p> <br />4️⃣ <strong>Creación del producto digital</strong><br />Con la información seleccionada crearéis vuestro producto final utilizando herramientas digitales. Podréis diseñar:</p>\n<ul>\n<li>un folleto digital</li>\n<li>una presentación </li>\n<li>carteles o materiales visuales</li>\n</ul>\n<p>👉 <a href=\"https://4.bp.blogspot.com/-7Z40L8HYAbI/Un-kLNMViqI/AAAAAAAAADg/aiupJrsKva4/s1600/brochure.jpg\" target=\"_blank\" title=\"\" rel=\"noopener\">Ejemplo folleto</a>  </p>\n<figure class=\"exe-figure exe-media position-center license-copyright\" style=\"width: 300px;\" id=\"fig_6spp9lttr\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/-urVziW313U?si=hwb-UJT5IXvAweBK\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://youtube.com/shorts/-urVziW313U?si=hwb-UJT5IXvAweBK\" target=\"_blank\" class=\"author\" rel=\"noopener\">ArtcreationsSindhu</a> <span class=\"license\"><span class=\"sep\">(</span><span>Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p>5️⃣ <strong>Presentación final</strong><br />Cada grupo presentará su viaje escolar al resto de la clase y explicará sus decisiones.</p>\n<p>Después podréis escuchar las propuestas de vuestros compañeros y valorar cuál os gustaría realizar.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n0-i6f7pqvif</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🕒 Organización del proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🕒 Organización del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🕒 Organización del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n0-i6f7pqvif</odePageId>
+      <odeBlockId>block-1779996306363-4t4p62wnn</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n0-i6f7pqvif</odePageId>
+          <odeBlockId>block-1779996306363-4t4p62wnn</odeBlockId>
+          <odeIdeviceId>idevice-1779996306361-mbn179ss7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>⏳ <strong>¿Cómo vamos a trabajar?</strong></p>
+<p>A lo largo de varias sesiones iremos avanzando poco a poco en la planificación del viaje escolar.</p>
+<p>Cada fase del proyecto tiene un objetivo concreto y combinará trabajo en grupo, búsqueda de información, práctica del inglés y uso de herramientas digitales.</p>
+<p>La siguiente línea temporal recoge de forma visual las tareas previstas, los agrupamientos, los espacios y los recursos que utilizaremos durante el proyecto.</p>
+<figure class="exe-figure position-center" style="width: 676px;"><img src="{{context_path}}/content/resources/Línea Temporal Our Dream School Trip.jpg" width="676" height="1690" alt="" />
+<figcaption class="figcaption"><span class="author">Victoriano Moreno Crespillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779996306361-mbn179ss7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>⏳ <strong>¿Cómo vamos a trabajar?</strong></p>\n<p>A lo largo de varias sesiones iremos avanzando poco a poco en la planificación del viaje escolar.</p>\n<p>Cada fase del proyecto tiene un objetivo concreto y combinará trabajo en grupo, búsqueda de información, práctica del inglés y uso de herramientas digitales.</p>\n<p>La siguiente línea temporal recoge de forma visual las tareas previstas, los agrupamientos, los espacios y los recursos que utilizaremos durante el proyecto.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 676px;\"><img src=\"{{context_path}}/content/resources/Línea Temporal Our Dream School Trip.jpg\" width=\"676\" height=\"1690\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Victoriano Moreno Crespillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n0-ob00lbi71</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🔐Seguridad digital</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔐Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔐Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n0-ob00lbi71</odePageId>
+      <odeBlockId>block-1779996896335-qdmknslvr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n0-ob00lbi71</odePageId>
+          <odeBlockId>block-1779996896335-qdmknslvr</odeBlockId>
+          <odeIdeviceId>idevice-1779996896332-36298buzd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🛡️ <strong>Antes de empezar...</strong></p>
+<p>Cuando utilizamos herramientas digitales en clase, también es importante aprender a utilizarlas de forma responsable y segura.</p>
+<p>Durante este proyecto utilizaremos diferentes herramientas digitales para buscar información, organizarnos y crear nuestro producto final.</p>
+<p>Por eso es importante recordar algunas normas básicas para hacer un uso responsable y seguro de la tecnología dentro y fuera del aula.</p>
+<p> 📢 <strong>Recomendaciones importantes</strong></p>
+<ul>
+<li> Utiliza internet de forma responsable y consulta solo páginas adecuadas para el proyecto.</li>
+<li>No compartas datos personales ni información privada.</li>
+<li>Respeta el trabajo y las opiniones de tus compañeros y compañeras.</li>
+<li>Utiliza imágenes y recursos digitales de forma responsable.</li>
+<li>Pide ayuda si tienes dudas o si surge algún problema técnico.</li>
+</ul>
+<p>📌<strong> Infografía sobre seguridad digital</strong></p>
+<p>A continuación podéis consultar la infografía elaborada para recordar estas recomendaciones durante el proyecto.</p>
+<figure class="exe-figure position-center" style="width: 714px;"><img src="{{context_path}}/content/resources/Tarea 2.3 nfografía Seguridad digital.jpg" width="714" height="1785" alt="" />
+<figcaption class="figcaption"><span class="author">Victoriano Moreno Crespillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779996896332-36298buzd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🛡️ <strong>Antes de empezar...</strong></p>\n<p>Cuando utilizamos herramientas digitales en clase, también es importante aprender a utilizarlas de forma responsable y segura.</p>\n<p>Durante este proyecto utilizaremos diferentes herramientas digitales para buscar información, organizarnos y crear nuestro producto final.</p>\n<p>Por eso es importante recordar algunas normas básicas para hacer un uso responsable y seguro de la tecnología dentro y fuera del aula.</p>\n<p> 📢 <strong>Recomendaciones importantes</strong></p>\n<ul>\n<li> Utiliza internet de forma responsable y consulta solo páginas adecuadas para el proyecto.</li>\n<li>No compartas datos personales ni información privada.</li>\n<li>Respeta el trabajo y las opiniones de tus compañeros y compañeras.</li>\n<li>Utiliza imágenes y recursos digitales de forma responsable.</li>\n<li>Pide ayuda si tienes dudas o si surge algún problema técnico.</li>\n</ul>\n<p>📌<strong> Infografía sobre seguridad digital</strong></p>\n<p>A continuación podéis consultar la infografía elaborada para recordar estas recomendaciones durante el proyecto.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 714px;\"><img src=\"{{context_path}}/content/resources/Tarea 2.3 nfografía Seguridad digital.jpg\" width=\"714\" height=\"1785\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Victoriano Moreno Crespillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n1-h7ckkym1q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>💻 Herramientas digitales</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>💻 Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>💻 Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n1-h7ckkym1q</odePageId>
+      <odeBlockId>block-1779999889069-4uvx8z34e</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n1-h7ckkym1q</odePageId>
+          <odeBlockId>block-1779999889069-4uvx8z34e</odeBlockId>
+          <odeIdeviceId>idevice-1779999889065-n66m0i5g5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779999889065-n66m0i5g5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n1-h7ckkym1q</odePageId>
+      <odeBlockId>block-1780154975610-xd46a98o3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n1-h7ckkym1q</odePageId>
+          <odeBlockId>block-1780154975610-xd46a98o3</odeBlockId>
+          <odeIdeviceId>idevice-1780154975609-wa2g1gqqd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🛠️<strong>¿Qué herramientas vamos a utilizar?</strong></p>
+<p>Durante el proyecto utilizaremos diferentes herramientas digitales que nos ayudarán a buscar información, organizar nuestras ideas y crear el producto final. Cada una tendrá una función diferente y nos ayudará a trabajar de forma más organizada y creativa. </p>
+<ul>
+<li>🗺️ <strong>Google Maps</strong></li>
+</ul>
+<p>Para localizar destinos, buscar lugares de interés y organizar el recorrido del viaje.</p>
+<ul>
+<li>📌<strong> Padlet</strong></li>
+</ul>
+<p>Para consultar recursos, ideas y materiales relacionados con el proyecto.</p>
+<figure class="exe-figure exe-media position-center license-copyright" style="width: 300px;" id="fig_qfjg700x6"><iframe width="300" height="150" src="https://www.youtube.com/embed/4Kil6gspE9w" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Andrea Oviedo-Tecnología y Educación</span> <span class="license"><span class="sep">(</span><span>Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li>🎨 <strong>Canva</strong></li>
+</ul>
+<p>Para diseñar el folleto o presentación final.</p>
+<p><a href="https://www.canva.com/es_es/" target="_blank" title="" rel="noopener">Enlace a Canva</a></p>
+<ul></ul>
+<ul>
+<li>🖥️ <strong>Google Slides</strong></li>
+</ul>
+<p>Para presentar la propuesta final.</p>
+<figure class="exe-figure exe-media position-center license-copyright" style="width: 300px;" id="fig_w0sgnlhru"><iframe width="300" height="150" src="https://www.youtube.com/embed/3bPrdSpjTKA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">GabiTUTOS</span> <span class="license"><span class="sep">(</span><span>Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li>🎯<strong> Wayground <em><span style="font-size: 10pt;">(antes conocida como Quizizz)</span></em></strong></li>
+</ul>
+<p>Para practicar vocabulario relacionado con viajes.</p>
+<p><a href="https://wayground.com/admin/interactive-video/67f5b82bcbac4400242f63d4/travel-and-tourism?page=search-result-page&amp;source=search-result-page" target="_blank" title="" rel="noopener">Ejemplo de actividad</a></p>
+<ul>
+<li>📝 <strong>Google Forms</strong></li>
+</ul>
+<p>Para reflexionar y evaluar el proyecto al finalizar.</p>
+<p><a href="Google%20Forms:%20Sign-in" target="_blank" title="" rel="noopener">Enlace a Google Forms</a></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+<p><span style="font-size: 18pt;">💡</span> Utilizaremos todas estas herramientas de forma responsable, colaborativa y adaptada a cada momento del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780154975609-wa2g1gqqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🛠️<strong>¿Qué herramientas vamos a utilizar?</strong></p>\n<p>Durante el proyecto utilizaremos diferentes herramientas digitales que nos ayudarán a buscar información, organizar nuestras ideas y crear el producto final. Cada una tendrá una función diferente y nos ayudará a trabajar de forma más organizada y creativa. </p>\n<ul>\n<li>🗺️ <strong>Google Maps</strong></li>\n</ul>\n<p>Para localizar destinos, buscar lugares de interés y organizar el recorrido del viaje.</p>\n<ul>\n<li>📌<strong> Padlet</strong></li>\n</ul>\n<p>Para consultar recursos, ideas y materiales relacionados con el proyecto.</p>\n<figure class=\"exe-figure exe-media position-center license-copyright\" style=\"width: 300px;\" id=\"fig_qfjg700x6\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/4Kil6gspE9w\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Andrea Oviedo-Tecnología y Educación</span> <span class=\"license\"><span class=\"sep\">(</span><span>Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li>🎨 <strong>Canva</strong></li>\n</ul>\n<p>Para diseñar el folleto o presentación final.</p>\n<p><a href=\"https://www.canva.com/es_es/\" target=\"_blank\" title=\"\" rel=\"noopener\">Enlace a Canva</a></p>\n<ul></ul>\n<ul>\n<li>🖥️ <strong>Google Slides</strong></li>\n</ul>\n<p>Para presentar la propuesta final.</p>\n<figure class=\"exe-figure exe-media position-center license-copyright\" style=\"width: 300px;\" id=\"fig_w0sgnlhru\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/3bPrdSpjTKA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">GabiTUTOS</span> <span class=\"license\"><span class=\"sep\">(</span><span>Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li>🎯<strong> Wayground <em><span style=\"font-size: 10pt;\">(antes conocida como Quizizz)</span></em></strong></li>\n</ul>\n<p>Para practicar vocabulario relacionado con viajes.</p>\n<p><a href=\"https://wayground.com/admin/interactive-video/67f5b82bcbac4400242f63d4/travel-and-tourism?page=search-result-page&amp;source=search-result-page\" target=\"_blank\" title=\"\" rel=\"noopener\">Ejemplo de actividad</a></p>\n<ul>\n<li>📝 <strong>Google Forms</strong></li>\n</ul>\n<p>Para reflexionar y evaluar el proyecto al finalizar.</p>\n<p><a href=\"Google%20Forms:%20Sign-in\" target=\"_blank\" title=\"\" rel=\"noopener\">Enlace a Google Forms</a></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><span style=\"font-size: 18pt;\">💡</span> Utilizaremos todas estas herramientas de forma responsable, colaborativa y adaptada a cada momento del proyecto.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n3-p4juu9cll</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📚 Recursos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n3-p4juu9cll</odePageId>
+      <odeBlockId>block-1780157296847-tm3vfq7h3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n3-p4juu9cll</odePageId>
+          <odeBlockId>block-1780157296847-tm3vfq7h3</odeBlockId>
+          <odeIdeviceId>idevice-1780157296845-ewb79p8rq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 590px;"><img src="{{context_path}}/content/resources/recursos.jpg" width="590" height="322" alt="" />
+<figcaption class="figcaption"><span class="author">Creada con IA-Gemini de Google</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>A lo largo del proyecto contaremos con diferentes recursos digitales que nos ayudarán a organizar el trabajo y a consultar información útil en cada momento.</p>
+<p>Estos recursos están pensados tanto para el alumnado como para el profesorado y facilitarán la búsqueda de información, la planificación del proyecto y el desarrollo de las diferentes actividades.</p>
+<p>¡Vamos a verlos!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780157296845-ewb79p8rq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 590px;\"><img src=\"{{context_path}}/content/resources/recursos.jpg\" width=\"590\" height=\"322\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Creada con IA-Gemini de Google</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>A lo largo del proyecto contaremos con diferentes recursos digitales que nos ayudarán a organizar el trabajo y a consultar información útil en cada momento.</p>\n<p>Estos recursos están pensados tanto para el alumnado como para el profesorado y facilitarán la búsqueda de información, la planificación del proyecto y el desarrollo de las diferentes actividades.</p>\n<p>¡Vamos a verlos!</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n4-ln3enjp7k</odePageId>
+  <odeParentPageId>page-mq2wh5n3-p4juu9cll</odeParentPageId>
+  <pageName>👧👦  Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👧👦  Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👧👦  Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>👧👦  Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n4-ln3enjp7k</odePageId>
+      <odeBlockId>block-1780157421110-z0p80lcr7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n4-ln3enjp7k</odePageId>
+          <odeBlockId>block-1780157421110-z0p80lcr7</odeBlockId>
+          <odeIdeviceId>idevice-1780157421109-clpby7r61</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente Padlet podréis consultar información y recursos relacionados con el proyecto. Además, durante el trabajo en grupo también podréis compartir materiales e ideas que vayáis encontrando para colaborar entre todos y enriquecer el proyecto.</p>
+<p>En él encontrarán recursos sobre:</p>
+<p>✈️ destinos y viajes<br />🗺️ mapas y lugares de interés<br />📖 vocabulario relacionado con viajes<br />🏨 alojamiento<br />🎨 ejemplos e ideas para el producto final</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780157421109-clpby7r61","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente Padlet podréis consultar información y recursos relacionados con el proyecto. Además, durante el trabajo en grupo también podréis compartir materiales e ideas que vayáis encontrando para colaborar entre todos y enriquecer el proyecto.</p>\n<p>En él encontrarán recursos sobre:</p>\n<p>✈️ destinos y viajes<br />🗺️ mapas y lugares de interés<br />📖 vocabulario relacionado con viajes<br />🏨 alojamiento<br />🎨 ejemplos e ideas para el producto final</p>\n<p><br /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n4-ln3enjp7k</odePageId>
+      <odeBlockId>block-1780784103620-miqu9hh8q</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n4-ln3enjp7k</odePageId>
+          <odeBlockId>block-1780784103620-miqu9hh8q</odeBlockId>
+          <odeIdeviceId>idevice-1780784103619-858d50m9g</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/vmorcre743/recursos-para-organizar-nuestro-viaje-escolar-resources-for--unhlkgv6trn3n8o8" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Unable to display an iframe loaded over HTTP on a website that uses HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n5-f8unz7ip0</odePageId>
+  <odeParentPageId>page-mq2wh5n3-p4juu9cll</odeParentPageId>
+  <pageName>🧑‍🎓 Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧑‍🎓 Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧑‍🎓 Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🧑‍🎓 Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n5-f8unz7ip0</odePageId>
+      <odeBlockId>block-1780158030426-cvzwke2ub</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n5-f8unz7ip0</odePageId>
+          <odeBlockId>block-1780158030426-cvzwke2ub</odeBlockId>
+          <odeIdeviceId>idevice-1780158030425-rlke5d0q2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>También se ha elaborado un <strong>Symbaloo</strong> con herramientas y recursos digitales  que pueden resultar útiles para los docentes en la preparación y el desarrollo del proyecto.</p>
+<p>Incluye materiales relacionados con:</p>
+<p>📚 planificación de aula<br />💻 herramientas digitales<br />📝 evaluación<br />🗺️ recursos relacionados con viajes<br />🎯 propuestas prácticas para el aula</p>
+<figure class="exe-figure position-center" style="width: 745px;"><img src="{{context_path}}/content/resources/Captura de pantalla_7-6-2026_01834_www.symbaloo.com.jpeg" width="745" height="455" alt="" />
+<figcaption class="figcaption"><span class="author">Victoriano Moreno Crespillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><span style="font-size: 18pt;">👉</span> Accede aquí al  <a href="https://www.symbaloo.com/home/mix/13eOcXOZCX" target="_blank" title="" rel="noopener">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780158030425-rlke5d0q2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>También se ha elaborado un <strong>Symbaloo</strong> con herramientas y recursos digitales  que pueden resultar útiles para los docentes en la preparación y el desarrollo del proyecto.</p>\n<p>Incluye materiales relacionados con:</p>\n<p>📚 planificación de aula<br />💻 herramientas digitales<br />📝 evaluación<br />🗺️ recursos relacionados con viajes<br />🎯 propuestas prácticas para el aula</p>\n<figure class=\"exe-figure position-center\" style=\"width: 745px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla_7-6-2026_01834_www.symbaloo.com.jpeg\" width=\"745\" height=\"455\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Victoriano Moreno Crespillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><span style=\"font-size: 18pt;\">👉</span> Accede aquí al  <a href=\"https://www.symbaloo.com/home/mix/13eOcXOZCX\" target=\"_blank\" title=\"\" rel=\"noopener\">Symbaloo</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n6-t2v595yk5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>✅ Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>✅ Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>✅ Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n6-t2v595yk5</odePageId>
+      <odeBlockId>block-1780158591316-xsd7h6vkc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n6-t2v595yk5</odePageId>
+          <odeBlockId>block-1780158591316-xsd7h6vkc</odeBlockId>
+          <odeIdeviceId>idevice-1780158591314-jzpepdixm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📋 <strong>¿Cómo vamos a evaluar el proyecto?</strong></p>
+<p>Durante el desarrollo del proyecto se tendrá en cuenta tanto el trabajo realizado durante las sesiones como la propuesta final presentada por cada grupo.</p>
+<p>La evaluación se centrará no solo en el resultado final, sino también en la participación, la colaboración con el grupo, el uso adecuado de las herramientas digitales y la capacidad para organizar y presentar la información en inglés.</p>
+<p><span style="font-size: 18pt;">🌱</span> <strong>Evaluar también nos ayuda a aprender</strong></p>
+<p>La evaluación será una oportunidad para reflexionar sobre el trabajo realizado, reconocer los aspectos positivos y pensar en qué podemos mejorar para futuros proyectos.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780158591314-jzpepdixm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📋 <strong>¿Cómo vamos a evaluar el proyecto?</strong></p>\n<p>Durante el desarrollo del proyecto se tendrá en cuenta tanto el trabajo realizado durante las sesiones como la propuesta final presentada por cada grupo.</p>\n<p>La evaluación se centrará no solo en el resultado final, sino también en la participación, la colaboración con el grupo, el uso adecuado de las herramientas digitales y la capacidad para organizar y presentar la información en inglés.</p>\n<p><span style=\"font-size: 18pt;\">🌱</span> <strong>Evaluar también nos ayuda a aprender</strong></p>\n<p>La evaluación será una oportunidad para reflexionar sobre el trabajo realizado, reconocer los aspectos positivos y pensar en qué podemos mejorar para futuros proyectos.</p>\n<p><br /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n7-e1vogkl31</odePageId>
+  <odeParentPageId>page-mq2wh5n6-t2v595yk5</odeParentPageId>
+  <pageName>📝 Criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📝 Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📝 Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n7-e1vogkl31</odePageId>
+      <odeBlockId>block-1780159809918-zfcknckhi</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n7-e1vogkl31</odePageId>
+          <odeBlockId>block-1780159809918-zfcknckhi</odeBlockId>
+          <odeIdeviceId>idevice-1780159809908-56bwnmulg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué aspectos se tendrán en cuenta?</strong></p>
+<p>A lo largo del proyecto se tendrán en cuenta diferentes aspectos relacionados con el uso del inglés, el trabajo cooperativo, la organización de la información y la utilización de herramientas digitales.</p>
+<p>Se valorará la participación activa del alumnado durante las sesiones, la capacidad para buscar y seleccionar información útil sobre el destino elegido, el uso del inglés en las actividades de comprensión y expresión, así como la organización del itinerario y la presentación final del viaje escolar.</p>
+<p>También se prestará atención al trabajo en equipo, la aportación de ideas, el respeto hacia las propuestas de los compañeros y el uso responsable de las herramientas digitales empleadas durante el proyecto.</p>
+<p>Los siguientes criterios están vinculados a las tareas y actividades desarrolladas a lo largo de <em>Our dream school trip</em> y permitirán valorar tanto el proceso de aprendizaje como el producto final elaborado por cada grupo.</p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/criterios victor_.jpg" width="1536" height="755" alt="" />
+<figcaption class="figcaption"><span class="author">Victoriano Moreno Crespillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780159809908-56bwnmulg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué aspectos se tendrán en cuenta?</strong></p>\n<p>A lo largo del proyecto se tendrán en cuenta diferentes aspectos relacionados con el uso del inglés, el trabajo cooperativo, la organización de la información y la utilización de herramientas digitales.</p>\n<p>Se valorará la participación activa del alumnado durante las sesiones, la capacidad para buscar y seleccionar información útil sobre el destino elegido, el uso del inglés en las actividades de comprensión y expresión, así como la organización del itinerario y la presentación final del viaje escolar.</p>\n<p>También se prestará atención al trabajo en equipo, la aportación de ideas, el respeto hacia las propuestas de los compañeros y el uso responsable de las herramientas digitales empleadas durante el proyecto.</p>\n<p>Los siguientes criterios están vinculados a las tareas y actividades desarrolladas a lo largo de <em>Our dream school trip</em> y permitirán valorar tanto el proceso de aprendizaje como el producto final elaborado por cada grupo.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/criterios victor_.jpg\" width=\"1536\" height=\"755\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Victoriano Moreno Crespillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n7-tzqjtzpoj</odePageId>
+  <odeParentPageId>page-mq2wh5n6-t2v595yk5</odeParentPageId>
+  <pageName>📋Rúbrica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📋Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📋Rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n7-tzqjtzpoj</odePageId>
+      <odeBlockId>block-1780160443104-3gas889zl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n7-tzqjtzpoj</odePageId>
+          <odeBlockId>block-1780160443104-3gas889zl</odeBlockId>
+          <odeIdeviceId>idevice-1780160443103-quuu9zqoq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué evaluaremos con la rúbrica?</strong></p>
+<p>La rúbrica nos ayudará a valorar el trabajo final de cada grupo: vuestro folleto o presentación digital sobre el viaje escolar que habéis diseñado. La utilizaremos al terminar el proyecto y nos permitirá comprobar aspectos como:</p>
+<ul>
+<li> la información que habéis seleccionado</li>
+<li>la organización del itinerario</li>
+<li>la claridad de la presentación</li>
+<li>el uso de las herramientas digitales </li>
+<li>el trabajo en equipo.</li>
+</ul>
+<p>Gracias a la rúbrica podréis saber qué habéis hecho bien durante el proyecto y qué aspectos podéis mejorar en próximas actividades.</p>
+<p>Lo más importante no será solo el resultado final, sino también todo el proceso: cómo habéis trabajado juntos, cómo habéis organizado las ideas y cómo habéis utilizado el inglés y las herramientas digitales para preparar vuestro <em>dream school trip.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780160443103-quuu9zqoq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué evaluaremos con la rúbrica?</strong></p>\n<p>La rúbrica nos ayudará a valorar el trabajo final de cada grupo: vuestro folleto o presentación digital sobre el viaje escolar que habéis diseñado. La utilizaremos al terminar el proyecto y nos permitirá comprobar aspectos como:</p>\n<ul>\n<li> la información que habéis seleccionado</li>\n<li>la organización del itinerario</li>\n<li>la claridad de la presentación</li>\n<li>el uso de las herramientas digitales </li>\n<li>el trabajo en equipo.</li>\n</ul>\n<p>Gracias a la rúbrica podréis saber qué habéis hecho bien durante el proyecto y qué aspectos podéis mejorar en próximas actividades.</p>\n<p>Lo más importante no será solo el resultado final, sino también todo el proceso: cómo habéis trabajado juntos, cómo habéis organizado las ideas y cómo habéis utilizado el inglés y las herramientas digitales para preparar vuestro <em>dream school trip.</em></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n7-tzqjtzpoj</odePageId>
+      <odeBlockId>block-1780785085028-9ozqqqcnc</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n7-tzqjtzpoj</odePageId>
+          <odeBlockId>block-1780785085028-9ozqqqcnc</odeBlockId>
+          <odeIdeviceId>idevice-1780785085025-4stsib52u</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Complete the following rubric</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1780785085025-4stsib52u%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%285x4%29%22%2C%22categories%22%3A%5B%22Selecci%F3n%20de%20informaci%F3n%22%2C%22Organizaci%F3n%20del%20viaje%22%2C%22Presentaci%F3n%20final%22%2C%22Uso%20de%20herramientas%20digitales%22%2C%22Trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Bien%22%2C%22En%20proceso%22%2C%22Mejorable%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Informaci%F3n%20completa%2C%20relevante%20y%20bien%20seleccionada%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Informaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Falta%20alg%FAn%20dato%20importante%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Informaci%F3n%20escasa%20o%20poco%20adecuada%20o%20poco%20adecuada%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Itinerario%20claro%20y%20bien%20estructurado%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Organizaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Algunas%20partes%20poco%20claras%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Presenta%20dificultades%20de%20organizaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Clara%2C%20visual%20y%20atractiva%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Bien%20presentado%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Algo%20mejorable%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Poco%20clara%20o%20incompleta%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Uso%20aut%F3nomo%20y%20adecuado%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Uso%20correcto%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Uso%20limitado%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Uso%20incorrecto%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Excelente%20colaboraci%F3n%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Buena%20colaboraci%F3n%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Falta%20de%20colaboraci%F3n%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%285x4%29%22%2C%22categories%22%3A%5B%22Selecci%F3n%20de%20informaci%F3n%22%2C%22Organizaci%F3n%20del%20viaje%22%2C%22Presentaci%F3n%20final%22%2C%22Uso%20de%20herramientas%20digitales%22%2C%22Trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Bien%22%2C%22En%20proceso%22%2C%22Mejorable%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Informaci%F3n%20completa%2C%20relevante%20y%20bien%20seleccionada%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Informaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Falta%20alg%FAn%20dato%20importante%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Informaci%F3n%20escasa%20o%20poco%20adecuada%20o%20poco%20adecuada%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Itinerario%20claro%20y%20bien%20estructurado%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Organizaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Algunas%20partes%20poco%20claras%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Presenta%20dificultades%20de%20organizaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Clara%2C%20visual%20y%20atractiva%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Bien%20presentado%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Algo%20mejorable%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Poco%20clara%20o%20incompleta%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Uso%20aut%F3nomo%20y%20adecuado%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Uso%20correcto%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Uso%20limitado%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Uso%20incorrecto%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Excelente%20colaboraci%F3n%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Buena%20colaboraci%F3n%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Falta%20de%20colaboraci%F3n%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22Rubric%22%2C%22activity%22%3A%22Activity%22%2C%22name%22%3A%22Name%22%2C%22date%22%3A%22Date%22%2C%22score%22%3A%22Score%22%2C%22notes%22%3A%22Notes%22%2C%22download%22%3A%22Download%22%2C%22msgDelete%22%3A%22Are%20you%20sure%20you%20want%20clear%20all%20form%20fields%3F%22%2C%22reset%22%3A%22Reset%22%2C%22print%22%3A%22Print%22%2C%22apply%22%3A%22Apply%22%2C%22newWindow%22%3A%22New%20Window%22%2C%22msgEndGameScore%22%3A%22Please%20complete%20the%20rubric%20before%20saving%20your%20score.%22%2C%22msgScoreScorm%22%3A%22The%20score%20can%27t%20be%20saved%20because%20this%20page%20is%20not%20part%20of%20a%20SCORM%20package.%22%2C%22msgOnlySaveScore%22%3A%22You%20can%20only%20save%20the%20score%20once%21%22%2C%22msgYouScore%22%3A%22Your%20score%22%2C%22msgOnlySaveAuto%22%3A%22Your%20score%20will%20be%20saved%20after%20each%20change.%20You%20can%20only%20complete%20once.%22%2C%22msgSaveAuto%22%3A%22Your%20score%20will%20be%20automatically%20saved%20after%20each%20change.%22%2C%22msgSeveralScore%22%3A%22You%20can%20save%20the%20score%20as%20many%20times%20as%20you%20want%22%2C%22msgYouLastScore%22%3A%22The%20last%20score%20saved%20is%22%2C%22msgActityComply%22%3A%22You%20have%20already%20done%20this%20activity.%22%2C%22msgPlaySeveralTimes%22%3A%22You%20can%20do%20this%20activity%20as%20many%20times%20as%20you%20want%22%2C%22msgScore%22%3A%22Score%22%2C%22msgWeight%22%3A%22Weight%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rubric</li><li class="activity">Activity</li><li class="name">Name</li><li class="date">Date</li><li class="score">Score</li><li class="notes">Notes</li><li class="download">Download</li><li class="msgDelete">Are you sure you want clear all form fields?</li><li class="reset">Reset</li><li class="print">Print</li><li class="apply">Apply</li><li class="newWindow">New Window</li><li class="msgEndGameScore">Please complete the rubric before saving your score.</li><li class="msgScoreScorm">The score can&#39;t be saved because this page is not part of a SCORM package.</li><li class="msgOnlySaveScore">You can only save the score once!</li><li class="msgYouScore">Your score</li><li class="msgOnlySaveAuto">Your score will be saved after each change. You can only complete once.</li><li class="msgSaveAuto">Your score will be automatically saved after each change.</li><li class="msgSeveralScore">You can save the score as many times as you want</li><li class="msgYouLastScore">The last score saved is</li><li class="msgActityComply">You have already done this activity.</li><li class="msgPlaySeveralTimes">You can do this activity as many times as you want</li><li class="msgScore">Score</li><li class="msgWeight">Weight</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n8-qyb4he28n</odePageId>
+  <odeParentPageId>page-mq2wh5n6-t2v595yk5</odeParentPageId>
+  <pageName>🎯 Diana de evaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎯 Diana de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎯 Diana de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n8-qyb4he28n</odePageId>
+      <odeBlockId>block-1780160865449-qnx0dnier</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n8-qyb4he28n</odePageId>
+          <odeBlockId>block-1780160865449-qnx0dnier</odeBlockId>
+          <odeIdeviceId>idevice-1780160865447-0bjnxtvjj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Para qué sirve la diana de evaluación?</strong></p>
+<p>La diana de evaluación la completaremos al terminar el proyecto como una forma de pensar sobre cómo ha ido nuestro trabajo.</p>
+<p>A través de ella podréis valorar vuestra participación durante las diferentes actividades:</p>
+<ul>
+<li>cómo habéis colaborado con el grupo</li>
+<li>vuestro esfuerzo en las tareas</li>
+<li>el uso de las herramientas digitales </li>
+<li>el resultado final del viaje que habéis preparado.</li>
+</ul>
+<p>La idea es que os ayude a parar un momento y reflexionar sobre lo que habéis aprendido, qué os ha salido bien y qué podríais mejorar la próxima vez.</p>
+<p>No se trata solo de poner una nota. También servirá para revisar juntos qué partes del proyecto os han resultado más útiles, cuáles os han gustado más y cuáles han sido un poco más difíciles.</p>
+<figure class="exe-figure position-center" style="width: 585px;"><img src="{{context_path}}/content/resources/Ficha de trabajo de diana de evaluación del trabajo cooperativo minimalista turquesa y naranja.jpg" width="585" height="827" alt="" />
+<figcaption class="figcaption"><span class="author">Victoriano Moreno Crespillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780160865447-0bjnxtvjj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Para qué sirve la diana de evaluación?</strong></p>\n<p>La diana de evaluación la completaremos al terminar el proyecto como una forma de pensar sobre cómo ha ido nuestro trabajo.</p>\n<p>A través de ella podréis valorar vuestra participación durante las diferentes actividades:</p>\n<ul>\n<li>cómo habéis colaborado con el grupo</li>\n<li>vuestro esfuerzo en las tareas</li>\n<li>el uso de las herramientas digitales </li>\n<li>el resultado final del viaje que habéis preparado.</li>\n</ul>\n<p>La idea es que os ayude a parar un momento y reflexionar sobre lo que habéis aprendido, qué os ha salido bien y qué podríais mejorar la próxima vez.</p>\n<p>No se trata solo de poner una nota. También servirá para revisar juntos qué partes del proyecto os han resultado más útiles, cuáles os han gustado más y cuáles han sido un poco más difíciles.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 585px;\"><img src=\"{{context_path}}/content/resources/Ficha de trabajo de diana de evaluación del trabajo cooperativo minimalista turquesa y naranja.jpg\" width=\"585\" height=\"827\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Victoriano Moreno Crespillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n8-jicz8f8ki</odePageId>
+  <odeParentPageId>page-mq2wh5n6-t2v595yk5</odeParentPageId>
+  <pageName>💬 Cuestionario final (Google Forms)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>💬 Cuestionario final (Google Forms)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>💬 Cuestionario final (Google Forms)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>💬 Cuestionario final (Google Forms)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n8-jicz8f8ki</odePageId>
+      <odeBlockId>block-1780161218063-v2occ2d5d</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n8-jicz8f8ki</odePageId>
+          <odeBlockId>block-1780161218063-v2occ2d5d</odeBlockId>
+          <odeIdeviceId>idevice-1780161218062-uqz40pspr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Para qué sirve el cuestionario final?</strong></p>
+<p>Al terminar el proyecto completaremos un pequeño cuestionario para pensar sobre todo lo que hemos trabajado.</p>
+<p>A través de este formulario podréis contar, entre otras cosas:</p>
+<ul>
+<li>cómo os habéis sentido durante el proyecto</li>
+<li>qué habéis aprendido</li>
+<li>qué actividades os han resultado más útiles o interesantes</li>
+<li>si habéis encontrado alguna dificultad durante la planificación del viaje.</li>
+</ul>
+<p>Vuestras respuestas nos ayudarán a conocer mejor cómo ha ido el proyecto y a revisar qué herramientas o actividades han funcionado mejor.</p>
+<p>Además, será una buena oportunidad para que cada uno pueda reflexionar sobre su propio trabajo, valorar lo aprendido y compartir ideas que puedan ayudarnos en futuros proyectos.</p>
+<p></p>
+<p><span style="font-size: 18pt;">👉<span style="font-size: 12pt;">Enlace al cuestionario de <a href="https://forms.gle/Ev41KjLG3FTvx68N7" target="_blank" title="" rel="noopener">Google Forms</a></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780161218062-uqz40pspr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Para qué sirve el cuestionario final?</strong></p>\n<p>Al terminar el proyecto completaremos un pequeño cuestionario para pensar sobre todo lo que hemos trabajado.</p>\n<p>A través de este formulario podréis contar, entre otras cosas:</p>\n<ul>\n<li>cómo os habéis sentido durante el proyecto</li>\n<li>qué habéis aprendido</li>\n<li>qué actividades os han resultado más útiles o interesantes</li>\n<li>si habéis encontrado alguna dificultad durante la planificación del viaje.</li>\n</ul>\n<p>Vuestras respuestas nos ayudarán a conocer mejor cómo ha ido el proyecto y a revisar qué herramientas o actividades han funcionado mejor.</p>\n<p>Además, será una buena oportunidad para que cada uno pueda reflexionar sobre su propio trabajo, valorar lo aprendido y compartir ideas que puedan ayudarnos en futuros proyectos.</p>\n<p></p>\n<p><span style=\"font-size: 18pt;\">👉<span style=\"font-size: 12pt;\">Enlace al cuestionario de <a href=\"https://forms.gle/Ev41KjLG3FTvx68N7\" target=\"_blank\" title=\"\" rel=\"noopener\">Google Forms</a></span></span></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n9-zli6cr3tc</odePageId>
+  <odeParentPageId>page-mq2wh5n6-t2v595yk5</odeParentPageId>
+  <pageName>📊 Tratamiento de variables e integración de datos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📊 Tratamiento de variables e integración de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📊 Tratamiento de variables e integración de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n9-zli6cr3tc</odePageId>
+      <odeBlockId>block-1780422410210-d01ms9xx7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n9-zli6cr3tc</odePageId>
+          <odeBlockId>block-1780422410210-d01ms9xx7</odeBlockId>
+          <odeIdeviceId>idevice-1780422410209-bagmac1sr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 301px;"><img src="{{context_path}}/content/resources/interpretacion.png" width="301" height="301" alt="" />
+<figcaption class="figcaption"><a href="https://www.flaticon.es/iconos-gratis/analizar" title="analizar iconos" class="author" target="_blank" rel="noopener">Eucalyp creado para Flaticon</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Durante el desarrollo del proyecto pueden surgir diferentes situaciones que influyan en el proceso de aprendizaje, como una participación desigual dentro de los grupos, dificultades para realizar la autoevaluación o pequeños problemas técnicos relacionados con las herramientas digitales. En estos casos se adoptarán las medidas necesarias para garantizar la participación de todo el alumnado y la continuidad de las actividades.</p>
+<p>La información obtenida mediante la rúbrica, la diana de evaluación y el cuestionario final de Google Forms se analizará de forma conjunta para obtener una visión más completa del proceso de aprendizaje.</p>
+<p>Los datos recogidos se registrarán de forma organizada en el cuaderno digital del profesorado o en una hoja de cálculo, facilitando la toma de decisiones y la adaptación de futuras propuestas a las necesidades reales del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780422410209-bagmac1sr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 301px;\"><img src=\"{{context_path}}/content/resources/interpretacion.png\" width=\"301\" height=\"301\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.flaticon.es/iconos-gratis/analizar\" title=\"analizar iconos\" class=\"author\" target=\"_blank\" rel=\"noopener\">Eucalyp creado para Flaticon</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Durante el desarrollo del proyecto pueden surgir diferentes situaciones que influyan en el proceso de aprendizaje, como una participación desigual dentro de los grupos, dificultades para realizar la autoevaluación o pequeños problemas técnicos relacionados con las herramientas digitales. En estos casos se adoptarán las medidas necesarias para garantizar la participación de todo el alumnado y la continuidad de las actividades.</p>\n<p>La información obtenida mediante la rúbrica, la diana de evaluación y el cuestionario final de Google Forms se analizará de forma conjunta para obtener una visión más completa del proceso de aprendizaje.</p>\n<p>Los datos recogidos se registrarán de forma organizada en el cuaderno digital del profesorado o en una hoja de cálculo, facilitando la toma de decisiones y la adaptación de futuras propuestas a las necesidades reales del alumnado.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq2wh5n9-f8js1ddst</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>👩‍🏫 Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👩‍🏫 Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👩‍🏫 Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq2wh5n9-f8js1ddst</odePageId>
+      <odeBlockId>block-1780161806653-m9z45vhkr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq2wh5n9-f8js1ddst</odePageId>
+          <odeBlockId>block-1780161806653-m9z45vhkr</odeBlockId>
+          <odeIdeviceId>idevice-1780161806652-h3vymkgls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 581px;"><img src="{{context_path}}/content/resources/guía didáctica.png" width="581" height="317" alt="" />
+<figcaption class="figcaption"><a href="Gemini-IA de Google " class="author" target="_blank" rel="noopener">Gemini-IA de Google </a>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>En esta guía didáctica podéis consultar la organización general del proyecto, la relación entre las tareas propuestas y los criterios de evaluación, así como algunas orientaciones que ayudarán a llevar a cabo las actividades y a resolver posibles dificultades técnicas que puedan surgir durante el proyecto.<br /></p>
+<p><span style="font-size: 18pt;">👉</span> Enlace a la <a href="https://docs.google.com/document/d/1wRHVGeUjF-4-UZe9JnaBIIIEQtmYRRh3w17p9PtPFIs/edit?usp=sharing" target="_blank" title="" rel="noopener">guía didáctica</a></p>
+<p><strong>📚   Nivel educativo</strong></p>
+<p>6º de Primaria-inglés</p>
+<p><strong>⏳  Temporalización</strong></p>
+<p>El proyecto está pensado para desarrollarse aproximadamente en 9-10 sesiones de 55-60 minutos.</p>
+<p><strong>🧩  Competencias específicas relacionadas</strong></p>
+<p>CE1: Comprender textos orales y escritos sencillos relacionados con viajes y contextos cercanos.<br />CE2: Producir e interactuar en situaciones comunicativas básicas utilizando el inglés.<br />CE5: Utilizar herramientas digitales de forma creativa, segura y responsable.</p>
+<p><strong>👥   Agrupamientos </strong></p>
+<p>Grupo clase, parejas y pequeños grupos mediante trabajo cooperativo.</p>
+<p><strong>🎯  Objetivos del proyecto</strong></p>
+<ul>
+<li>Mejorar la comunicación en inglés en situaciones cercanas y reales.</li>
+<li>Buscar y seleccionar información útil sobre un destino.</li>
+<li>Organizar y presentar un itinerario de viaje en grupo.</li>
+<li>Utilizar herramientas digitales de forma responsable.</li>
+<li>Desarrollar la creatividad y la toma de decisiones compartida.</li>
+<li>Diseñar y presentar un viaje escolar ideal.</li>
+</ul>
+<p><strong>💻  Herramientas digitales utilizadas</strong></p>
+<ul>
+<li>Padlet</li>
+<li>Google Maps</li>
+<li>Canva</li>
+<li>Google Slides</li>
+<li>Google Forms</li>
+<li>Symbaloo</li>
+<li>Wayground</li>
+<li>eXeLearning</li>
+</ul>
+<p><strong>🧩 Producto final</strong></p>
+<p>Creación y presentación de un viaje escolar ideal elaborado de forma cooperativa mediante un folleto o presentación digital.</p>
+<p><strong>📋  Metodología</strong></p>
+<p>El proyecto se basa en el aprendizaje cooperativo y en el aprendizaje basado en proyectos (ABP), fomentando la participación activa del alumnado mediante tareas prácticas relacionadas con la planificación y presentación de un viaje escolar ideal.</p>
+<p><strong>🌍  Atención a la diversidad/DUA</strong></p>
+<p>El proyecto incorpora diferentes tipos de actividades, recursos visuales y herramientas digitales que favorecen la participación de todo el alumnado, ofreciendo distintas formas de acceder a la información, expresar ideas y colaborar con el grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780161806652-h3vymkgls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 581px;\"><img src=\"{{context_path}}/content/resources/guía didáctica.png\" width=\"581\" height=\"317\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"Gemini-IA de Google \" class=\"author\" target=\"_blank\" rel=\"noopener\">Gemini-IA de Google </a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>En esta guía didáctica podéis consultar la organización general del proyecto, la relación entre las tareas propuestas y los criterios de evaluación, así como algunas orientaciones que ayudarán a llevar a cabo las actividades y a resolver posibles dificultades técnicas que puedan surgir durante el proyecto.<br /></p>\n<p><span style=\"font-size: 18pt;\">👉</span> Enlace a la <a href=\"https://docs.google.com/document/d/1wRHVGeUjF-4-UZe9JnaBIIIEQtmYRRh3w17p9PtPFIs/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">guía didáctica</a></p>\n<p><strong>📚   Nivel educativo</strong></p>\n<p>6º de Primaria-inglés</p>\n<p><strong>⏳  Temporalización</strong></p>\n<p>El proyecto está pensado para desarrollarse aproximadamente en 9-10 sesiones de 55-60 minutos.</p>\n<p><strong>🧩  Competencias específicas relacionadas</strong></p>\n<p>CE1: Comprender textos orales y escritos sencillos relacionados con viajes y contextos cercanos.<br />CE2: Producir e interactuar en situaciones comunicativas básicas utilizando el inglés.<br />CE5: Utilizar herramientas digitales de forma creativa, segura y responsable.</p>\n<p><strong>👥   Agrupamientos </strong></p>\n<p>Grupo clase, parejas y pequeños grupos mediante trabajo cooperativo.</p>\n<p><strong>🎯  Objetivos del proyecto</strong></p>\n<ul>\n<li>Mejorar la comunicación en inglés en situaciones cercanas y reales.</li>\n<li>Buscar y seleccionar información útil sobre un destino.</li>\n<li>Organizar y presentar un itinerario de viaje en grupo.</li>\n<li>Utilizar herramientas digitales de forma responsable.</li>\n<li>Desarrollar la creatividad y la toma de decisiones compartida.</li>\n<li>Diseñar y presentar un viaje escolar ideal.</li>\n</ul>\n<p><strong>💻  Herramientas digitales utilizadas</strong></p>\n<ul>\n<li>Padlet</li>\n<li>Google Maps</li>\n<li>Canva</li>\n<li>Google Slides</li>\n<li>Google Forms</li>\n<li>Symbaloo</li>\n<li>Wayground</li>\n<li>eXeLearning</li>\n</ul>\n<p><strong>🧩 Producto final</strong></p>\n<p>Creación y presentación de un viaje escolar ideal elaborado de forma cooperativa mediante un folleto o presentación digital.</p>\n<p><strong>📋  Metodología</strong></p>\n<p>El proyecto se basa en el aprendizaje cooperativo y en el aprendizaje basado en proyectos (ABP), fomentando la participación activa del alumnado mediante tareas prácticas relacionadas con la planificación y presentación de un viaje escolar ideal.</p>\n<p><strong>🌍  Atención a la diversidad/DUA</strong></p>\n<p>El proyecto incorpora diferentes tipos de actividades, recursos visuales y herramientas digitales que favorecen la participación de todo el alumnado, ofreciendo distintas formas de acceder a la información, expresar ideas y colaborar con el grupo.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780786133182-aoftzsky3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📜 Créditos</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📜 Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780786133182-aoftzsky3</odePageId>
+      <odeBlockId>block-1780786143616-qjdm42gxh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780786133182-aoftzsky3</odePageId>
+          <odeBlockId>block-1780786143616-qjdm42gxh</odeBlockId>
+          <odeIdeviceId>idevice-1780786143614-tnqkn84pp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este proyecto educativo<br></caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Our dream school trip: Proyecto de inglés-6º de Primaria</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">La propuesta didáctica, la organización de actividades y la selección de recursos han sido diseñadas para el desarrollo del proyecto Our dream school trip, dirigido al alumnado de 6.º de Educación Primaria dentro del área de Inglés.
+</span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Victoriano Moreno Crespillo</span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
